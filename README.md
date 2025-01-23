@@ -86,8 +86,8 @@ _Security & Cyber_ · _CI/CD Pipelines_ · _Data Structures/Algorithms_ · _Bloc
 ## Stats & Activity
 <!-- Optionally include GitHub stats or language cards using shields.io or an external service. Example below: -->
 
-![YourUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical)
+![Sheldon's GitHub stats](https://github-readme-stats.vercel.app/api?username=aristide021&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristide021&layout=compact&theme=radical)
 
 ---
 
