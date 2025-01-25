@@ -69,7 +69,7 @@ _Security & Cyber_ · _CI/CD Pipelines_ · _Data Structures/Algorithms_ · _Bloc
 **Highlights:**
 - **Caching** with Redis to reduce API hits and manage concurrency.
 - Structured logging via Winston, multi-language support with i18next.
-- [View Repository](https://github.com/Aristide021/GitHub-Repository-Analysis-Bot))
+- [View Repository](https://github.com/Aristide021/GitHub-Repository-Analysis-Bot)
 
 ### 4. Discord Server Structure Bot
 **Tech:** *Python (discord.py / app_commands)*  
