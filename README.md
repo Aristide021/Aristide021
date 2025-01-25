@@ -63,13 +63,13 @@ _Security & Cyber_ · _CI/CD Pipelines_ · _Data Structures/Algorithms_ · _Bloc
 - Handles **authentication** flows (token refresh) and advanced **exception handling**.
 - [View Repository](https://github.com/aristide021/spotify-archiver)
 
-### 3. GitHub Repo Bot
+### 3. GitHub Repository Analysis Bot
 **Tech:** *Node.js, TypeScript, Discord.js, Octokit (GitHub API), Redis*  
 **Description:** Slash-command bot analyzing GitHub repos for activity, code uniqueness, docs, and more.  
 **Highlights:**
 - **Caching** with Redis to reduce API hits and manage concurrency.
 - Structured logging via Winston, multi-language support with i18next.
-- [View Repository](https://github.com/aristide021/github-repo-bot)
+- [View Repository](https://github.com/Aristide021/GitHub-Repository-Analysis-Bot))
 
 ### 4. Discord Server Structure Bot
 **Tech:** *Python (discord.py / app_commands)*  
@@ -93,7 +93,7 @@ _Security & Cyber_ · _CI/CD Pipelines_ · _Data Structures/Algorithms_ · _Bloc
 
 ## Get in Touch
 
-- **LinkedIn:** [linkedin.com/in/YourLinkedIn](https://www.linkedin.com/in/SheldonAristide/)
+- **LinkedIn:** [linkedin.com/in/SheldonAristide](https://www.linkedin.com/in/SheldonAristide/)
 - **Email:** [aristide021@gmail.com](mailto:aristide021@gmail.com)
 
 <div align="center">
