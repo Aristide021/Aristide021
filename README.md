@@ -80,15 +80,15 @@ _Security & Cyber_ · _CI/CD Pipelines_ · _Data Structures/Algorithms_ · _Bloc
 - [View Repository](https://github.com/aristide021/discord-server-structure-bot)
 
 > Check out my [GitHub Repositories](https://github.com/aristide021?tab=repositories) for more projects, including SpotiScribe, YouTube Metadata Collectors, and other automation tools.
-
+<!-- 
 ---
 
 ## Stats & Activity
-<!-- Optionally include GitHub stats or language cards using shields.io or an external service. Example below: -->
+Optionally include GitHub stats or language cards using shields.io or an external service. Example below:
 
 ![Sheldon's GitHub stats](https://github-readme-stats.vercel.app/api?username=aristide021&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristide021&layout=compact&theme=radical)
-
+-->
 ---
 
 ## Get in Touch
