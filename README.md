@@ -45,44 +45,6 @@ _Security & Cyber_ · _CI/CD Pipelines_ · _Data Structures/Algorithms_ · _Bloc
 
 ---
 
-## Featured Projects
-
-### 1. Google Calendar Cohort Sync
-**Tech:** *Google Apps Script (JavaScript), Gmail/Calendar APIs*  
-**Description:** Automated system parsing “cohort event” emails, creating/updating Google Calendar events, and handling tricky timezone/DST logic.  
-**Highlights:**
-- Eliminated manual scheduling with **~200 threads/week** processed automatically.
-- Implemented **robust error handling** and concurrency to handle real-time event creation.
-- [View Repository](https://github.com/aristide021/google-calendar-cohort-sync)
-
-### 2. Spotify Archiver
-**Tech:** *Python, Flask, Spotify API (OAuth)*  
-**Description:** Archives old Spotify playlist tracks into month- and year-based “vault” playlists automatically.  
-**Highlights:**
-- Uses **batch processing** (100 tracks at a time) to respect rate limits.
-- Handles **authentication** flows (token refresh) and advanced **exception handling**.
-- [View Repository](https://github.com/aristide021/spotify-archiver)
-
-### 3. GitHub Repository Analysis Bot
-**Tech:** *Node.js, TypeScript, Discord.js, Octokit (GitHub API), Redis*  
-**Description:** Slash-command bot analyzing GitHub repos for activity, code uniqueness, docs, and more.  
-**Highlights:**
-- **Caching** with Redis to reduce API hits and manage concurrency.
-- Structured logging via Winston, multi-language support with i18next.
-- [View Repository](https://github.com/Aristide021/GitHub-Repository-Analysis-Bot)
-
-### 4. Discord Server Structure Bot
-**Tech:** *Python (discord.py / app_commands)*  
-**Description:** Generates JSON/Markdown maps of Discord server hierarchies, roles, permissions, and channels.  
-**Highlights:**
-- **Asynchronous** chunk-based scanning for large servers to avoid timeouts.
-- Customizable output formats (Markdown, JSON) and robust file export.
-- [View Repository](https://github.com/aristide021/discord-server-structure-bot)
-
-> Check out my [GitHub Repositories](https://github.com/aristide021?tab=repositories) for more projects, including SpotiScribe, YouTube Metadata Collectors, and other automation tools.
-<!-- 
----
-
 ## Stats & Activity
 Optionally include GitHub stats or language cards using shields.io or an external service. Example below:
 
