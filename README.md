@@ -54,9 +54,3 @@ _Security & Cyber_ · _CI/CD Pipelines_ · _Data Structures/Algorithms_ · _Bloc
 ## Get in Touch
 
 - **LinkedIn:** [linkedin.com/in/SheldonAristide](https://www.linkedin.com/in/SheldonAristide/)
-
-<div align="center">
-  
-  _“Always building, always learning.”_
-  
-</div>
