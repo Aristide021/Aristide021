@@ -22,12 +22,10 @@ Here are some ideas to get you started:
 
 ## About Me
 - 👨‍💻 **Platform Architect & Software Developer** with 5+ years of experience building large-scale communities, automation tools, and real-world APIs.
-- 🎓 Currently pursuing a **B.S. in Computer Science** at **Western Governors University**.
 - 🌐 Passionate about **system architecture**, **AI/ML**, and **community-scale** solutions.
 
 ### What I Do
 - **Design & develop** robust, scalable platforms, both front-end and back-end.
-- **Build automation** bots and scripts for Discord, Reddit, Spotify, and more.
 - **Optimize** for performance, reliability, and real-time data.
 
 ---
